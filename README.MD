@@ -52,6 +52,6 @@ Implements data validation mechanisms to ensure user inputs meet specified crite
 Uses try, except, else, and finally blocks to handle errors gracefully and provide informative error messages
 
 Getting Started
-Clone the repository: git clone https://github.com/cececodes1/your-repo-name.git
+Clone the repository: git clone https://github.com/cececodes1/E-commerce_API.git
 Install the dependencies: pip install -r requirements.txt
 Run the application: python app.py
